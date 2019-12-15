@@ -4,3 +4,8 @@ second_number = 2
 def sum 
   return first_number + second_number
 end
+
+difference
+
+product
+
