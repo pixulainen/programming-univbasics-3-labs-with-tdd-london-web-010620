@@ -5,7 +5,14 @@ def sum
   return first_number + second_number
 end
 
-difference
+def difference
+  return first_number - second_number
+end
+def product
+  return first_number * second_number
+end
 
-product
 
+def quotient
+  return first_number / second_number
+end
